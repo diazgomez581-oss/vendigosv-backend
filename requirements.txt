@@ -35,3 +35,4 @@ six==1.17.0
 sqlparse==0.5.4
 tzdata==2025.2
 urllib3==2.5.0
+dj-database-url==1.0.0
